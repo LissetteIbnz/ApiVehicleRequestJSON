@@ -10,7 +10,7 @@ namespace ApiVehicleForm.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Vehicle request";
+            ViewBag.Title = "Vehicle Request";
 
             return View();
         }
